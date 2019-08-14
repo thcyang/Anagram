@@ -1,3 +1,4 @@
 cd src/com/solution/my
 javac *.java
-java Main
+cd ../../../
+java -cp . com.solution.my.Main
